@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-07T21:19:28Z" name="Default suite" finished-at="2021-09-07T21:20:48Z" duration-ms="80203">
+    <groups>
+    </groups>
+    <test started-at="2021-09-07T21:19:28Z" name="Default test" finished-at="2021-09-07T21:20:48Z" duration-ms="80203">
+      <class name="seleniumpack.flipcart">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:seleniumpack.flipcart@2931522b]" started-at="2021-09-07T21:19:28Z" name="beforeTest" finished-at="2021-09-07T21:19:46Z" duration-ms="17368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testJbkTitle()[pri:0, instance:seleniumpack.flipcart@2931522b]" started-at="2021-09-07T21:19:46Z" name="testJbkTitle" finished-at="2021-09-07T21:20:05Z" duration-ms="19084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitle -->
+        <test-method signature="testJbkTitleInvalid()[pri:1, instance:seleniumpack.flipcart@2931522b]" started-at="2021-09-07T21:20:05Z" name="testJbkTitleInvalid" finished-at="2021-09-07T21:20:19Z" duration-ms="14683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitleInvalid -->
+        <test-method signature="testJbkTitlesubmit()[pri:2, instance:seleniumpack.flipcart@2931522b]" started-at="2021-09-07T21:20:19Z" name="testJbkTitlesubmit" finished-at="2021-09-07T21:20:37Z" duration-ms="17422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlesubmit -->
+        <test-method signature="testJbkTitlecheck()[pri:3, instance:seleniumpack.flipcart@2931522b]" started-at="2021-09-07T21:20:37Z" name="testJbkTitlecheck" finished-at="2021-09-07T21:20:41Z" duration-ms="4330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlecheck -->
+        <test-method signature="testJbkTitlescroll()[pri:3, instance:seleniumpack.flipcart@2931522b]" started-at="2021-09-07T21:20:41Z" name="testJbkTitlescroll" finished-at="2021-09-07T21:20:47Z" duration-ms="6073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlescroll -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:seleniumpack.flipcart@2931522b]" started-at="2021-09-07T21:20:47Z" name="afterTest" finished-at="2021-09-07T21:20:48Z" duration-ms="1126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- seleniumpack.flipcart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
